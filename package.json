@@ -1,0 +1,8 @@
+{
+  "name": "git-merge-practice",
+  "version": "1.0.0",
+  "description": "Practice project for Git merge conflicts",
+  "scripts": {
+    "start": "live-server"
+  }
+}
